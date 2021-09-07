@@ -1,0 +1,4 @@
+Install QRCoder via NuGet Package Manager. Also, you can add the package through Nuget Package manager console following this command:
+ 
+Install-Package QRCoder.
+ 
