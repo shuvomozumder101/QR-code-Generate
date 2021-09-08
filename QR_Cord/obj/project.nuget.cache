@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b7jygGT2lca5HwqtW6mbsK0ef3J4H4wZnmRfI1hMQbrn79o/Q9HXS7rqWhdwqMoVFEfjEl0fsqM05CQiioySOg==",
+  "dgSpecHash": "VCRpwrZbkk3XNYD8shihl9loRIZqw0qEET5eGSd947OYGKgbBtuSmHsvqSptzTD3o+IsiCaPIG2By4DKZR5xEw==",
   "success": true,
-  "projectFilePath": "D:\\Dot Net core MVC\\QR_Cord\\QR_Cord\\QR_Cord.csproj",
+  "projectFilePath": "D:\\Dot Net core MVC\\QR-code-Generate\\QR_Cord\\QR_Cord.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shuvo\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\shuvo\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

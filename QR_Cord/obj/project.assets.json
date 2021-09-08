@@ -8616,11 +8616,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dot Net core MVC\\QR_Cord\\QR_Cord\\QR_Cord.csproj",
+      "projectUniqueName": "D:\\Dot Net core MVC\\QR-code-Generate\\QR_Cord\\QR_Cord.csproj",
       "projectName": "QR_Cord",
-      "projectPath": "D:\\Dot Net core MVC\\QR_Cord\\QR_Cord\\QR_Cord.csproj",
+      "projectPath": "D:\\Dot Net core MVC\\QR-code-Generate\\QR_Cord\\QR_Cord.csproj",
       "packagesPath": "C:\\Users\\shuvo\\.nuget\\packages\\",
-      "outputPath": "D:\\Dot Net core MVC\\QR_Cord\\QR_Cord\\obj\\",
+      "outputPath": "D:\\Dot Net core MVC\\QR-code-Generate\\QR_Cord\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shuvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
